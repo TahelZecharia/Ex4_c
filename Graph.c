@@ -225,10 +225,11 @@ void TSP_cmd(pnode *head, int path_length)
 {
     min_path = INFI;
     int path[path_length];
-    int node_id;
+    int node_id = -1;
 
     for (int i = 0; i < path_length; i++)
     {
+        scanf("%d", &node_id);
         path[i] = node_id;
     }
     permutation(head, path, path_length, path_length);

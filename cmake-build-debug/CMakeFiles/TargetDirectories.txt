@@ -1,3 +1,0 @@
-C:/Users/tahel/CLionProjects/Ex4_c/cmake-build-debug/CMakeFiles/Ex4_c.dir
-C:/Users/tahel/CLionProjects/Ex4_c/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tahel/CLionProjects/Ex4_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

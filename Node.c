@@ -27,7 +27,7 @@ pnode node_alloc(int id, pnode *head)
     new_node_pointer->next = next_node;
     new_node_pointer->edges = NULL;
     new_node_pointer->visit = 0;
-    new_node_pointer->weight = INFINITY;
+    new_node_pointer->weight = 1000000;
     *head = new_node_pointer;
     return new_node_pointer;
 }
